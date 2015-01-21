@@ -7,7 +7,7 @@
 • UNIX or GNU/Linux Systems Administration to include:  BASH, gBash*.
 • Big Data Processing Tools to include:  Borgcron*, ETL Pipelines, MapReduce, Pipewrench* (PatchPanel)
 • Statistical Software packages to include:  R, SciPy, MatLab (Octave)
-• Visualization Software packages/libraries to include:  Aplos*, D3.js, HighCharts, Google Dashboards, Tableu
+• Visualization Software packages/libraries to include:  Aplos*, D3.js, HighCharts, Google Dashboards, Tableau
 • Effective cross-discipline collaboration and communication with Project Managers, Engineers, and Stakeholders.
 • Write and review technical documents, including design, development, and revision documents
 • Independent and Passionate about learning new technologies, “self-driven” to achieve.
