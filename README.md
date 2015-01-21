@@ -1,18 +1,16 @@
 ### Mark Susol - SOFTWARE ENGINEER
-#### Data Warehousing • Business Intelligence • Data Visualization • Predictive Analytics
+#### Data Munging • Business Intelligence • Data Visualization • Predictive Analytics
 
 • Software Engineering skills in Javascript, PHP, Python, and Go under Test Driven Development (TDD).
 • Internet and Network skills to include:  HTML, XML, JSON, HTTP, SSL, TCP/IP.
-• Relational Databases and Query authoring to include:  Tenzing*, Dremel* (aka BigQuery), MySQL
-• UNIX or GNU/Linux Systems Administration to include:  BASH, gBash*.
-• Big Data Processing Tools to include:  Borgcron*, ETL Pipelines, MapReduce, Pipewrench* (PatchPanel)
+• Relational Databases and Query authoring to include:  Tenzing, Dremel (aka BigQuery), MySQL
+• UNIX or GNU/Linux Systems Administration to include:  BASH, gBash.
+• Big Data Processing Tools to include:  Borgcron, ETL Pipelines, MapReduce, Pipewrench (PatchPanel)
 • Statistical Software packages to include:  R, SciPy, MatLab (Octave)
-• Visualization Software packages/libraries to include:  Aplos*, D3.js, HighCharts, Google Dashboards, Tableau
+• Visualization Software packages/libraries to include:  Aplos, D3.js, HighCharts, Google Dashboards, Tableau
 • Effective cross-discipline collaboration and communication with Project Managers, Engineers, and Stakeholders.
 • Write and review technical documents, including design, development, and revision documents
 • Independent and Passionate about learning new technologies, “self-driven” to achieve.
-
-* Google Internal Technologies
 
 #### PROFESSIONAL EXPERIENCE
 
