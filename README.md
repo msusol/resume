@@ -71,13 +71,14 @@ GovDashboard, Software-as-a-Service (SaaS) for Business Intelligence Visualizati
 
 Meetup: Data Science for Sustainability, Big Data Developers Silicon Valley, Silicon Valley Big Data Science, 2014-2015
 Meetup: Data Science DC, Data Visualization DC, Hadoop-DC, NOVA-Python, Statistical Programming DC, 2013
-GitHub Repositories:  Study and Development Projects https://github.com/msusol, 2013-2015
-Coursera: Getting and Cleaning Data, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, December 2014
-Coursera: Exploratory Data Analysis, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, December 2014
-Coursera: R Programming, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, November 2014
-Coursera: Algorithms: Design and Analysis, Part 1, by Tim Roughgarden, Stanford University November 2014
-Coursera: Introduction to Data Science, by Bill Howe, University of Washington May 2013
-Coursera: Machine Learning, by Andrew Ng, Stanford University April 2013
+GitHub Repositories:  Study and Development Projects <https://github.com/msusol>, 2013-2015
+Coursera: Regression Models, Brian Caffo, PhD, Roger D. Peng, PhD, Jeff Leek, PhD, Johns Hopkins University, 2015
+Coursera: Getting and Cleaning Data, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, 2014
+Coursera: Exploratory Data Analysis, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, 2014
+Coursera: R Programming, Roger D. Peng, Jeff Leek, & Brian Caffo, Johns Hopkins University, 2014
+Coursera: Algorithms: Design and Analysis, Part 1, by Tim Roughgarden, Stanford University, 2014
+Coursera: Introduction to Data Science, by Bill Howe, University of Washington, 2013
+Coursera: Machine Learning, by Andrew Ng, Stanford University, 2013
 
 ### VOLUNTEER EXPERIENCE
 
