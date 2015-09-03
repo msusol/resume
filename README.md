@@ -1,5 +1,5 @@
 ### <a target='_blank' href="http://www.marksusol.com">Mark Susol</a> - DATA INFRASTRUCTURE ENGINEER
-### Data Munging • Business Intelligence • Data Visualization • Predictive Analytics
+#### Data Munging • Business Intelligence • Data Visualization • Predictive Analytics
 
 * Software Engineering skills in Javascript, PHP, Python, and Go under Test Driven Development (TDD).
 * Internet and Network skills to include:  HTML, XML, JSON, HTTP, SSL, TCP/IP.
@@ -14,11 +14,11 @@
 
 ### PROFESSIONAL EXPERIENCE
 
-**Data Infrastructure Engineer**  
-**Google Inc., Mountain View, CA  September 2015 – Present**
+**Data Infrastructure Engineer, September 2015 – Present**  
+**Google Inc., Mountain View, CA**
 
-**Software Engineer**  
-**Cognizant Technology Solutions, San Ramon, CA  September 2013 – September 2015**
+**Software Engineer, September 2013 – September 2015**  
+**Cognizant Technology Solutions, San Ramon, CA**
     
     Cloudfire Platform Engineering - Metrics Dashboard at Symantec Global HQ (Mountain View, CA)
     • Developed Django app/dashboard with REST API for displaying CPE Service Health Status and Metrics.
@@ -34,11 +34,10 @@
     • Experienced with Google’s internal bug tracking, code review, and version control software for each project.
     • Worked directly with Third Party data vendors to establish FTP acquisition and ETL pipeline data importation.
 
-**Software Engineer**  
-**REI Systems, Sterling, VA    February 2012 – September 2013**
+**Software Engineer, February 2012 – September 2013**  
+**REI Systems, Sterling, VA**
 
     Enterprise System Development Office (ESDO) at US Department of Homeland Security (DHS)
-    
     • Supporting the 13 federal agencies inclusive of DHS in Drupal Website-Content-Management-as-a-Service (WCMaaS)
     • Deploying and maintaining Testing, Staging and Production environments on the CGI Federal Cloud.
     • Experienced with continuous integration systems (Bamboo) and version control/management (Git).
@@ -53,8 +52,8 @@
     • Developed custom drupal module for FISMA security policies for REI’s federal agency sites.
     • Experienced with continuous integration systems (Hudson) and version control/management (Subversion).
 
-**Web Developer, Owner**  
-**Ultimate Creative Media, Frederick, MD      July 2003 – January 2012**
+**Web Developer, July 2003 – January 2012**  
+**dba Ultimate Creative Media, Frederick, MD**
 
     • Founded a marketing business for the development of advertising media for small businesses.  
     • Designed business identities and media presence through a partnership with experienced Graphic Artist.
@@ -62,8 +61,8 @@
     • Provided website hosting services and maintenance for business websites including HTTPS.
     • Deployed, administered and troubleshot Linux (SuSE) production server for large personal phpBB site.
 
-**Web Developer, Owner**  
-**UltimateDressage.com, Frederick, MD    January 2000 – December 2011**	
+**Web Developer, January 2000 – December 2011**  
+**dba UltimateDressage.com, Frederick, MD**	
 
     • Founded a phpBB forum for Dressage enthusiasts that has grown into one of the largest available social communities.
     • Developed custom modifications allowing for subscriptions based registration and classified advertising.
@@ -85,8 +84,8 @@ Coursera: **Machine Learning**, by Andrew Ng, Stanford University, 2013
 
 ### VOLUNTEER EXPERIENCE
 
-**Web Developer, Board of Directors**   
-**CDCTA - 501(c)(3), Culpepper, VA    January 2000 – December 2005**	
+**Web Developer, Board of Directors, January 2000 – December 2005**   
+**CDCTA - 501(c)(3), Culpepper, VA**	
 
 * Responsible for the design and development of the organization’s website using PHP & MySQL technologies.
 * Developed an extensive custom CMS allowing each board member to control website content through user authentication.
