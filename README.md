@@ -17,13 +17,17 @@
 **Data Infrastructure Engineer, September 2015 – Present**  
 **Google Inc., Mountain View, CA**
 
+    gTech Consumer Analytics (TL) (Boulder, CO) May 2017 - Present
+
+    gTech Consumer Analytics** (Mountain View, CA) September 2015 - May 2017
+
 **Software Engineer, September 2013 – September 2015**  
 **Cognizant Technology Solutions, San Ramon, CA**
     
-    Cloudfire Platform Engineering - Metrics Dashboard at Symantec Global HQ (Mountain View, CA)
+    Cloudfire Platform Engineering - Metrics Dashboard at Symantec Global HQ (Mountain View, CA)  August 2015
     • Developed Django app/dashboard with REST API for displaying CPE Service Health Status and Metrics.
 
-    gTech Engineering Business Intelligence at Google Global HQ (Mountain View, CA)
+    gTech Engineering Business Intelligence at Google Global HQ (Mountain View, CA)  September 2013- July 2015
     • Developed software in Javascript, Python and Go using Test Driven Development (TDD).
     • Conversion of operational ETL pipeline from Python workflow to Pipewrench (PatchPanel) workflow.
     • Added, Modified, or Deprecated multiple ETL processes to include MapReduce in Python and Go.
